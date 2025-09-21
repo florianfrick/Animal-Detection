@@ -1,7 +1,7 @@
 # Animal-Detection
 Bounding box object detection of animal heads from Oxford-IIIT Pet dataset using PyTorch to create a DETR style encoder-decoder transformer model.
 
-See the "pet_detection.ipynb" notebook for more dteails.
+See the "pet_detection.ipynb" notebook for more details.
 
 ##
 With only 11M parameters and 100 epochs of training, the model successfully detects test examples.
